@@ -1,0 +1,5 @@
+T1201,Rajdhani Express,Mumbai,Delhi,2000,50
+T1202,Shatabdi Express,Delhi,Kolkata,1500,40
+T1203,Duronto Express,Chennai,Hyderabad,800,30
+T1204,Jan Shatabdi Express,Bangalore,Chennai,600,60
+T1205,Garib Rath,Jaipur,Ahmedabad,400,70

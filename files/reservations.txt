@@ -1,0 +1,2 @@
+PNR1000,sakshi,T1201,Rajdhani Express,sakshi gharat,Delhi,Agra,10/02/2026,AC,20,F,2500,CONFIRMED
+PNR1001,sakshig,T1202,Shatabdi Express,Sakshi,Mumbai,Delhi,01/09/2006,AC,19,F,2000,CONFIRMED

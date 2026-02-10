@@ -1,0 +1,5 @@
+M001,Sakshi Gharat,sakshi@gmail.com,9876543210,Mumbai,0
+M002,Rahul Sharma,rahul@yahoo.com,8765432109,Delhi,100
+M003,Priya Patel,priya@gmail.com,7654321098,Chennai,0
+M004,Amit Kumar,amit@gmail.com,6543210987,Bangalore,50
+M005,Neha Singh,neha@yahoo.com,5432109876,Hyderabad,0
